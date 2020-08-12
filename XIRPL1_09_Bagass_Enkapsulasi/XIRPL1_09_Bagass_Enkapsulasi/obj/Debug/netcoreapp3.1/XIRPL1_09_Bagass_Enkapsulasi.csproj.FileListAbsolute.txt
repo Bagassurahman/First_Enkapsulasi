@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\bin\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.exe
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\bin\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.deps.json
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\bin\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.runtimeconfig.json
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\bin\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\bin\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.dll
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\bin\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.pdb
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\obj\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\obj\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\obj\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.AssemblyInfo.cs
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\obj\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\obj\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.dll
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\obj\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.pdb
+C:\Users\Acer\source\repos\XIRPL1_09_Bagass_Enkapsulasi\XIRPL1_09_Bagass_Enkapsulasi\obj\Debug\netcoreapp3.1\XIRPL1_09_Bagass_Enkapsulasi.genruntimeconfig.cache
